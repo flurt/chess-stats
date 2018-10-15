@@ -14342,3 +14342,551 @@
 2018-10-14 17:09:23	qed	MagnusRM, https://arxiv.org/abs/1703.09682
 2018-10-14 17:10:21	MagnusRM	ok, thanks, will comment later, on the phone now
 2018-10-14 17:11:42	qed	tyt :)
+2018-10-14 17:24:28	--	irc: disconnected from server
+2018-10-14 17:28:14	-->	Momentum (Momentum@gateway/shell/panicbnc/x-akqgvhrghpkgpkbd) has joined ##chess
+2018-10-14 17:28:14	--	Topic for ##chess is "chess discussions, from lines to games, to organizing matches | please identify with Services - if you can not ask an op for a voice"
+2018-10-14 17:28:14	--	Topic set by qed (~Shimon@unaffiliated/terencetao) on Fri, 24 Aug 2018 16:46:36
+2018-10-14 17:28:14	--	Channel ##chess: 111 nicks (1 op, 9 voices, 101 normals)
+2018-10-14 17:28:44	--	Channel created on Tue, 27 Jan 2009 06:30:13
+2018-10-14 17:30:14	artefact	back from the “coupe de France”
+2018-10-14 17:30:27	artefact	got absolutely trashed by a 1800, did not expect them to bring their a-team
+2018-10-14 17:43:42	+Momentum	RIP
+2018-10-14 17:44:06	+Momentum	what's your FIDE rating? :P
+2018-10-14 17:44:32	artefact	i don't know
+2018-10-14 17:47:49	--	irc: disconnected from server
+2018-10-14 17:57:39	-->	Momentum (Momentum@gateway/shell/panicbnc/x-akqgvhrghpkgpkbd) has joined ##chess
+2018-10-14 17:57:39	--	Topic for ##chess is "chess discussions, from lines to games, to organizing matches | please identify with Services - if you can not ask an op for a voice"
+2018-10-14 17:57:39	--	Topic set by qed (~Shimon@unaffiliated/terencetao) on Fri, 24 Aug 2018 16:46:36
+2018-10-14 17:57:39	--	Channel ##chess: 112 nicks (1 op, 9 voices, 102 normals)
+2018-10-14 17:58:31	--	Channel created on Tue, 27 Jan 2009 06:30:13
+2018-10-14 18:01:54	-->	econoraptorman (uid147250@gateway/web/irccloud.com/x-bvpqbiihoxkutoqn) has joined ##chess
+2018-10-14 18:02:10	--	irc: disconnected from server
+2018-10-14 20:33:20	-->	Momentum (Momentum@gateway/shell/panicbnc/x-akqgvhrghpkgpkbd) has joined ##chess
+2018-10-14 20:33:20	--	Topic for ##chess is "chess discussions, from lines to games, to organizing matches | please identify with Services - if you can not ask an op for a voice"
+2018-10-14 20:33:20	--	Topic set by qed (~Shimon@unaffiliated/terencetao) on Fri, 24 Aug 2018 16:46:36
+2018-10-14 20:33:20	--	Channel ##chess: 111 nicks (1 op, 9 voices, 101 normals)
+2018-10-14 20:33:20	***	Buffer Playback...
+2018-10-14 20:33:20	penthief	[18:05:07] Chess Tempo's opening training is great.
+2018-10-14 20:33:20	furrykef	[18:38:11] I've still yet to try it, since I'm already using Chessable
+2018-10-14 20:33:20	beeman	[20:07:33] hi!! :)
+2018-10-14 20:33:20	beeman	[20:07:36] !ranking koname
+2018-10-14 20:33:20	beeman	[20:07:43] why it isn't working for me?
+2018-10-14 20:33:20	penthief	[20:08:10] !rating koname
+2018-10-14 20:33:20	+botfisch`	[20:08:11] penthief: koname: blitz: 886 (N=188, Δ=-15, σ=62)
+2018-10-14 20:33:21	penthief	[20:08:25] !rating classical
+2018-10-14 20:33:21	+botfisch`	[20:08:27] penthief: classical: classical: 1503 (N=2, Δ=0, σ=350)
+2018-10-14 20:33:21	penthief	[20:08:34] !rating koname classical
+2018-10-14 20:33:21	+botfisch`	[20:08:35] penthief: koname: classical: 1500 (N=0, Δ=0, σ=350)
+2018-10-14 20:33:21	qed	[20:12:24] !rating
+2018-10-14 20:33:21	+botfisch`	[20:12:25] qed: (rating <username> [<variant>] [<force>]) -- Retrieves Lichess rating. The shiny numbers in the brackets are: number of games played, progression over the last twelve games and rating deviation. 
+2018-10-14 20:33:21	qed	[20:12:33] !rating beeman
+2018-10-14 20:33:21	+botfisch`	[20:12:34] qed: koname: blitz: 886 (N=188, Δ=-15, σ=62)
+2018-10-14 20:33:21	qed	[20:20:11] how is life TheBombMaker ?
+2018-10-14 20:33:21	furrykef	[20:24:27] https://lichess.org/e5c9Cdnw#24  I'm curious if I made the right choice here, with 13.dxc6 instead of gxh3
+2018-10-14 20:33:21	furrykef	[20:24:57] I lost two pawns instead of one but my king was safer than it would have been if I'd taken the bishop.
+2018-10-14 20:33:21	beeman	[20:25:20] !rating beeman
+2018-10-14 20:33:21	+botfisch`	[20:25:21] beeman: koname: blitz: 886 (N=188, Δ=-15, σ=62)
+2018-10-14 20:33:21	beeman	[20:25:24] oh..
+2018-10-14 20:33:21	beeman	[20:25:29] !rating koname
+2018-10-14 20:33:21	+botfisch`	[20:25:30] beeman: koname: blitz: 886 (N=188, Δ=-15, σ=62)
+2018-10-14 20:33:21	beeman	[20:25:47] my baad
+2018-10-14 20:33:21	qed	[20:26:24] furrykef, I just finished working for today
+2018-10-14 20:33:21	furrykef	[20:26:26] What does the [<force>] argument to !rating do?
+2018-10-14 20:33:21	qed	[20:26:46] the force is just for the Jedi members of the channel
+2018-10-14 20:33:21	qed	[20:27:09] furrykef, you should ask baraba 
+2018-10-14 20:33:21	furrykef	[20:28:21] yo, baraba! What's <force> do?
+2018-10-14 20:33:21	furrykef	[20:29:03] Stockfish thinks I should have taken the bishop instead of the knight.
+2018-10-14 20:33:21	furrykef	[20:30:17] My king would have been really exposed, though, and the black queen had easy access to the kingside.
+2018-10-14 20:33:21	***	Playback Complete.
+2018-10-14 20:33:50	--	Channel created on Tue, 27 Jan 2009 06:30:13
+2018-10-14 20:34:31	+Momentum	lol
+2018-10-14 20:34:34	+Momentum	!rating blitz
+2018-10-14 20:34:36	+botfisch`	Momentum: blitz: rapid: 1302 (N=1, Δ=0, σ=350)
+2018-10-14 20:36:43	qed	!rating blitz
+2018-10-14 20:36:44	+botfisch`	qed: blitz: rapid: 1302 (N=1, Δ=0, σ=350)
+2018-10-14 20:37:18	qed	!rating
+2018-10-14 20:37:19	+botfisch`	qed: (rating <username> [<variant>] [<force>]) -- Retrieves Lichess rating. The shiny numbers in the brackets are: number of games played, progression over the last twelve games and rating deviation. 
+2018-10-14 20:37:24	qed	!rating qed
+2018-10-14 20:37:25	+botfisch`	qed: terencetao: blitz: 1902 (N=5603, Δ=50, σ=60)
+2018-10-14 20:37:31	qed	mmhhmm
+2018-10-14 20:37:40	furrykef	Dassa lotta games.
+2018-10-14 20:37:43	furrykef	!rating furrykef blitz
+2018-10-14 20:37:44	+botfisch`	furrykef: furrykef: blitz: 1233 (N=203, Δ=-25, σ=61)
+2018-10-14 20:38:07	furrykef	!rating furrykef classical
+2018-10-14 20:38:08	+botfisch`	furrykef: furrykef: classical: 1522 (N=188, Δ=-4, σ=62)
+2018-10-14 20:38:14	+Momentum	you think that's a lot of games
+2018-10-14 20:38:26	+Momentum	!rating kingoftheandals ultrabullet
+2018-10-14 20:38:27	+botfisch`	Momentum: kingoftheandals: None
+2018-10-14 20:38:37	+Momentum	!rating kingoftheandals ultra
+2018-10-14 20:38:39	+botfisch`	Momentum: kingoftheandals: None
+2018-10-14 20:38:43	+Momentum	!rating kingoftheandals
+2018-10-14 20:38:45	+botfisch`	Momentum: kingoftheandals: bullet: 2018 (N=2435, Δ=33, σ=66)
+2018-10-14 20:39:05	+Momentum	how do i get ultra?
+2018-10-14 20:39:17	furrykef	!ratig kingoftheandals ultra-bullet
+2018-10-14 20:39:21	furrykef	!rating kingoftheandals ultra-bullet
+2018-10-14 20:39:22	+botfisch`	furrykef: kingoftheandals: None
+2018-10-14 20:39:26	furrykef	was worth a try...
+2018-10-14 20:39:38	+Momentum	!rating kingoftheandals Ultrabullet
+2018-10-14 20:39:39	+botfisch`	Momentum: kingoftheandals: None
+2018-10-14 20:39:54	+Momentum	anyway, must be around 8 thousand
+2018-10-14 20:40:14	furrykef	I don't imagine that's terribly hard to do with ultrabullet
+2018-10-14 20:40:33	furrykef	Could probably play it in a month easily enough
+2018-10-14 20:41:33	+Momentum	you think so
+2018-10-14 20:41:55	furrykef	266 games a day in a 30-day month. It's doable.
+2018-10-14 20:42:24	furrykef	(It helps if you don't have to work at a job during that time.)
+2018-10-14 20:43:52	+Momentum	baraba: should include the ultrabullet variant in your silly bot
+2018-10-14 20:44:54	furrykef	Takes about 4 and a half hours a day if each game is about a minute long.
+2018-10-14 20:45:46	+Momentum	i feel like i played more than that
+2018-10-14 20:45:55	artefact	i think “silly” is at the wrong place in your sentence
+2018-10-14 20:46:11	furrykef	lol. Indeed.
+2018-10-14 20:46:36	+JimmyRustles	!rating JimmyRustles
+2018-10-14 20:46:37	+botfisch`	JimmyRustles: JimmyRustles: blitz: 1539 (N=172, Δ=-77, σ=60)
+2018-10-14 20:46:44	+Momentum	okay, let me rephrase that, "should include the ultrabullet variant in your great bot"
+2018-10-14 20:47:02	+Momentum	what about now?
+2018-10-14 20:48:29	+Momentum	probably this bot didn't get any update since a long time
+2018-10-14 20:48:57	+baraba	wut
+2018-10-14 20:49:08	+baraba	dont be bad
+2018-10-14 20:49:20	+Momentum	no, i'm good
+2018-10-14 20:49:36	+baraba	!rating kingoftheandals
+2018-10-14 20:49:37	+botfisch`	baraba: kingoftheandals: bullet: 2018 (N=2435, Δ=33, σ=66)
+2018-10-14 20:49:43	+Momentum	no
+2018-10-14 20:49:47	+Momentum	that's not what we wanted
+2018-10-14 20:49:47	+baraba	!rating kingoftheandals ultraBullet
+2018-10-14 20:49:48	+botfisch`	baraba: kingoftheandals: ultraBullet: 2014 (N=8955, Δ=15, σ=64)
+2018-10-14 20:49:54	+Momentum	wut!!!
+2018-10-14 20:49:55	+Momentum	LMAO
+2018-10-14 20:50:03	+Momentum	fucking casesensitive
+2018-10-14 20:50:03	+baraba	thats exactly what you wanted
+2018-10-14 20:50:19	+baraba	because if you typed it you'd now how lichess calls ultra
+2018-10-14 20:50:19	+Momentum	thanks tho
+2018-10-14 20:51:20	+baraba	furrykef, force is obsolete
+2018-10-14 20:51:56	qed	ultraBullet lol
+2018-10-14 20:52:19	+Momentum	you might think that ultrabullet is a stupid time controle, but it's a game on its own, and very hard too
+2018-10-14 20:52:55	artefact	some games are stupid
+2018-10-14 20:53:04	artefact	but, to each their own
+2018-10-14 20:53:27	qed	I'll suggest adding HyperUltraBullet
+2018-10-14 20:53:34	furrykef	It's a very different game. One that I don't have interest in
+2018-10-14 20:53:51	+Momentum	no interest != terrible
+2018-10-14 20:54:05	qed	I wonder if magnus is good at these time controls
+2018-10-14 20:54:12	+Momentum	he's good
+2018-10-14 20:54:15	furrykef	I mock bullet and ultrabullet sometimes but I'm not being serious when I do.
+2018-10-14 20:54:19	artefact	how about quantumBullet. each opponent has only one planck time on their clock
+2018-10-14 20:54:33	furrykef	(I do occasionally play 1+0 bullet, more out of curiosity than anything)
+2018-10-14 20:54:41	+Momentum	that would be hard for a mouse to handle
+2018-10-14 20:54:50	artefact	oh, and you have to move the pieces with your feet
+2018-10-14 20:55:13	+Momentum	blindfold planckchess?? :O
+2018-10-14 20:55:20	artefact	and you have to play on an upside-down magnetic board that's sideways
+2018-10-14 20:56:14	qed	:)
+2018-10-14 20:56:23	+Momentum	that escelated badly
+2018-10-14 20:56:38	qed	how are you over there artefact , still much pain?
+2018-10-14 20:56:49	artefact	yes
+2018-10-14 20:56:51	qed	:(
+2018-10-14 20:57:04	qed	sorry to hear it my friend
+2018-10-14 20:58:45	qed	well I am going to bed
+2018-10-14 20:58:51	qed	good night everyone
+2018-10-14 20:59:30	artefact	gn
+2018-10-14 21:00:42	+Momentum	good night
+2018-10-14 21:00:45	+Momentum	https://flurt.github.io/chess-stats/gfx/
+2018-10-14 21:00:55	+Momentum	if anyone is interested, i'm using a small backlog
+2018-10-14 21:01:12	+Momentum	if someone has better backlogs let me know :P
+2018-10-14 21:02:16	artefact	i probably do but they're not 24/7, i don't use a bnc
+2018-10-14 21:02:18	-->	m1dnight_ (~m1dnight@ptr-g7gbjui1hyz0jwphvho.18120a2.ip6.access.telenet.be) has joined ##chess
+2018-10-14 21:03:07	+Momentum	my BNC is terrible disconnecting a lot
+2018-10-14 21:03:11	artefact	(also i need to stfu)
+2018-10-14 21:03:53	+Momentum	lol
+2018-10-14 21:10:19	furrykef	Hmm... this exercise says to "use a graphing calculator" and I wonder if it means I'm supposed to have the calculator do the integrals for me... because I sure as hell have no clue how to begin integrating this
+2018-10-14 21:13:41	<--	TheBombMaker (~TheBombMa@142.119.79.73) has quit (Changing host)
+2018-10-14 21:13:42	-->	TheBombMaker (~TheBombMa@unaffiliated/thebombmaker) has joined ##chess
+2018-10-14 21:13:43	TheBombMaker	integrate what where
+2018-10-14 21:14:58	furrykef	∫(4e^((x+1)(x-3)) + 2x + 2)dx
+2018-10-14 21:15:48	furrykef	I plugged it into an online integral calculator that breaks it down into steps... pretty sure it's a bit beyond my current skillset.
+2018-10-14 21:16:15	+Momentum	it looks normal to me
+2018-10-14 21:16:32	furrykef	It's the exponent of e that's the problem
+2018-10-14 21:17:00	+Momentum	i only panic when i see sqrts other than that i'm good
+2018-10-14 21:17:03	furrykef	We haven't covered problems of that form, I'm pretty sure. Only e^(ax+b)
+2018-10-14 21:17:24	+Momentum	TheBombMaker: we can make some memes out of those stats aye? :)
+2018-10-14 21:17:25	furrykef	Or problems where u-substitution is trivial
+2018-10-14 21:17:48	TheBombMaker	spookerz
+2018-10-14 21:18:04	TheBombMaker	there are integrals that legit just can't be computed
+2018-10-14 21:18:06	<--	ibispi (~quassel@46.17.144.90) has quit (Remote host closed the connection)
+2018-10-14 21:18:11	artefact	i don't think there's a closed form for that
+2018-10-14 21:18:28	artefact	well, there is one, but it cheats with erf()
+2018-10-14 21:18:36	TheBombMaker	yeah was about to say
+2018-10-14 21:18:54	TheBombMaker	pretty sure you'd be able to get a closed form for erf if there were a closed form for that thing
+2018-10-14 21:22:26	furrykef	yeah, I was supposed to use a graphing calculator for the integrals. Too bad I still didn't know the correct procedure for this problem and still got it wrong.
+2018-10-14 21:26:47	atchoum	∫(4e^((x+1)(x-3)) + 2x + 2)dx is easy as cake
+2018-10-14 21:27:39	atchoum	anyway the procedure for this kind of functions is kind of recursive, you'd use a per piece integration (ipp or ppi)
+2018-10-14 21:27:52	atchoum	I'm sure I could do it at some point
+2018-10-14 21:27:54	artefact	>when you can't read parentheses
+2018-10-14 21:27:55	furrykef	It's not something I've learned yet. I'm learning calculus for the first time
+2018-10-14 21:28:02	atchoum	ha ok
+2018-10-14 21:28:33	atchoum	artefact: the hard part is not the 2x+2 you can always linearize that.
+2018-10-14 21:28:56	artefact	could you be even more condescending?
+2018-10-14 21:29:00	atchoum	but integrals of the form ∫e^(f(x)) where f is a polynomial in x
+2018-10-14 21:29:19	atchoum	no sorry
+2018-10-14 21:29:34	artefact	please, show me then. find an antiderivative of exp(x²)
+2018-10-14 21:29:57	atchoum	you'd use a variable change I think.
+2018-10-14 21:30:00	atchoum	in the plane ?
+2018-10-14 21:30:03	atchoum	yes
+2018-10-14 21:30:07	artefact	go ahead, show me.
+2018-10-14 21:30:36	TheBombMaker	correct answer
+2018-10-14 21:31:20	artefact	it is if you want the gaussian integral. i want an antiderivative
+2018-10-14 21:31:26	atchoum	rexp(r²) dt = exp(x²+y²)dxdy
+2018-10-14 21:31:52	atchoum	i don't think there's an analytical expression for the antiderivative
+2018-10-14 21:32:03	<--	konsolebox (~konsolebo@203.87.129.129) has quit (Ping timeout: 252 seconds)
+2018-10-14 21:32:38	artefact	that's why i think your integration by parts idea is bullshit
+2018-10-14 21:32:44	artefact	it works for P(x)e^x, not for e^P(x)
+2018-10-14 21:32:55	atchoum	ha yes
+2018-10-14 21:33:21	atchoum	i'm really a garbage math man
+2018-10-14 21:33:27	+Momentum	debunked
+2018-10-14 21:33:47	artefact	think about it next time you call something easy as cake
+2018-10-14 21:33:47	artefact	as that can be seen as insulting/degrading
+2018-10-14 21:34:19	+Momentum	especially when it's not true
+2018-10-14 21:34:41	-->	konsolebox (~konsolebo@203.87.129.129) has joined ##chess
+2018-10-14 21:34:46	artefact	i'm also guilty of calling things easy. it's a hard habit. i try not to do it in front of the class
+2018-10-14 21:35:41	atchoum	mmhh the integral can read 4e^(u*(u-4)) + 2u = 4e^(u²)e^(-4u) + 2u
+2018-10-14 21:36:06	atchoum	wonder if there's an analytical solution for that one.
+2018-10-14 21:37:38	furrykef	So much for "easy as cake".
+2018-10-14 21:39:36	TheBombMaker	the short answer would be no
+2018-10-14 21:39:47	artefact	maybe cake as in, the traffic queue. it's pretty complex
+2018-10-14 21:40:52	artefact	https://github.com/dtaht/tc-adv/blob/master/man/man8/tc-cake.8#L123-L129 the description alone is worth a laugh
+2018-10-14 21:44:29	+Momentum	-_-
+2018-10-14 21:45:24	furrykef	What's a traffic queue?
+2018-10-14 21:46:04	artefact	kind of like a cpu scheduler, but for a network interface
+2018-10-14 21:46:31	furrykef	ah
+2018-10-14 21:47:09	furrykef	I know a fair bit about systems-level stuff but I've never done that particular stuff.
+2018-10-14 21:47:24	furrykef	(Most of my low-level programming has been for 8- and 16-bit game consoles...)
+2018-10-14 21:54:49	+Momentum	TheBombMaker: the stats says that you have a potty mouth
+2018-10-14 21:55:06	+Momentum	lul
+2018-10-14 22:07:43	-->	Alekhsi (~Synadze@unaffiliated/synadze) has joined ##chess
+2018-10-14 22:07:53	<--	Synadze (~Synadze@unaffiliated/synadze) has quit (Ping timeout: 276 seconds)
+2018-10-14 22:11:00	dude12312414	who said cake was easy
+2018-10-14 22:11:58	-->	lede (~lede@gateway/tor-sasl/lede) has joined ##chess
+2018-10-14 22:12:09	TheBombMaker	agree
+2018-10-14 22:17:34	-->	bosspotato (~TheBombMa@142.119.79.73) has joined ##chess
+2018-10-14 22:21:00	<--	TheBombMaker (~TheBombMa@unaffiliated/thebombmaker) has quit (Ping timeout: 252 seconds)
+2018-10-14 22:32:07	<--	artefact (~romain@unaffiliated/artefact2) has quit (Quit: artefact)
+2018-10-14 22:38:34	-->	Mock_ (~Mock_@219-122-205-182f1.kyt1.eonet.ne.jp) has joined ##chess
+2018-10-14 22:45:18	furrykef	goddammit
+2018-10-14 22:46:21	furrykef	I just played Kf8 instead of O-O
+2018-10-14 22:46:27	furrykef	Though my opponent let me take it back
+2018-10-14 22:46:34	furrykef	I was going to let it stand but he insisted
+2018-10-14 22:46:38	--	Alekhsi is now known as Synadze
+2018-10-14 22:52:09	<--	atchoum (~david@ip-147.net-89-3-122.rev.numericable.fr) has quit (Ping timeout: 246 seconds)
+2018-10-14 22:54:08	-->	mducharme (uid303982@gateway/web/irccloud.com/x-xmqogozmbauwnvxd) has joined ##chess
+2018-10-14 22:58:55	furrykef	I seem to be getting better at spotting tactics in games (as opposed to puzzles), at least when I'm the one playing them
+2018-10-14 22:59:05	furrykef	Preventing tactics from my opponent is still difficult
+2018-10-14 23:03:12	furrykef	In fact, thinking about my opponent at all is difficult.
+2018-10-14 23:03:56	furrykef	I can think in terms of, say, "This will double his pawns and give him a tougher endgame"
+2018-10-14 23:04:20	furrykef	But I don't really think about my opponent's immediate plans
+2018-10-14 23:43:09	<--	palasso (~palasso@unaffiliated/palasso) has quit (Quit: I am not a quitter!)
+2018-10-14 23:56:20	furrykef	Oh God. We're getting into calculating the volume of semi-arbitrary objects.
+2018-10-14 23:57:06	Jik	just integrate dV over the object
+2018-10-14 23:57:11	Jik	rest is trivial
+2018-10-14 23:57:51	furrykef	Your face is trivial :|
+2018-10-14 23:57:57	Jik	well it is
+2018-10-14 23:58:01	Jik	no-one is interested in my face
+2018-10-14 23:58:05	Jik	so you got that right
+2018-10-15 00:22:34	<--	aindilis (~aindilis@172-12-3-117.lightspeed.sgnwmi.sbcglobal.net) has quit (Read error: Connection reset by peer)
+2018-10-15 00:29:27	<--	redstarcomrade (~quassel@cpe-104-175-255-182.socal.res.rr.com) has quit (Ping timeout: 246 seconds)
+2018-10-15 00:38:37	<--	fieldmapper (~fieldmapp@usve31031.vserver.de) has quit (Remote host closed the connection)
+2018-10-15 00:41:32	-->	wontc (~willc@unaffiliated/willc) has joined ##chess
+2018-10-15 00:44:58	<--	willc (~willc@unaffiliated/willc) has quit (Ping timeout: 268 seconds)
+2018-10-15 00:45:24	--	wontc is now known as willc
+2018-10-15 00:52:44	-->	redstarcomrade (~quassel@cpe-104-175-255-182.socal.res.rr.com) has joined ##chess
+2018-10-15 00:54:36	eyeoh	furrykef: Nice blitz game but yeah I think taking the bishop wouldn't have exposed your king - black had nowhere to push their queen or knights towards your king
+2018-10-15 00:54:56	eyeoh	You had that right side covered well
+2018-10-15 00:56:05	-->	tdy (~tdy@unaffiliated/tdy) has joined ##chess
+2018-10-15 00:57:07	furrykef	At that moment, sure, but what about the future?
+2018-10-15 00:57:23	furrykef	Pieces can be traded off, but pawns can never be put back.
+2018-10-15 00:59:02	eyeoh	Probably depends on if you would have been comfortable defending that side of the board because what ended up happening was an overall push
+2018-10-15 01:01:19	eyeoh	Black had no rooks eyeing your king
+2018-10-15 01:02:34	eyeoh	I think I've played a few games now with my king fairly exposed early on thanks to my irregular openings combined with aggressive opponents
+2018-10-15 01:03:18	eyeoh	What ends up happening is either I start feeling boxed in, or I bounce back because I end up being able to manoeuvre my rooks and pieces wherever I like
+2018-10-15 01:04:06	eyeoh	So I tend to try to link my rooks up earlier and position my knights to defend well
+2018-10-15 01:04:57	eyeoh	Then they launch their attack before finding they're short a piece because they still have a rook bishop and knight stuck in the opposite corner, even if they might be a pawn or two ahead
+2018-10-15 01:05:38	eyeoh	And in that case I hope my pieces are more coordinated
+2018-10-15 01:10:33	eyeoh	That bishop was a bit of a threat to your queen for a bit while King probably could have found many ways to avoid back's queen?
+2018-10-15 01:11:25	furrykef	mm
+2018-10-15 01:12:48	eyeoh	Probably wasn't too much in it either way so possibly harsh for it to be called a blunder
+2018-10-15 01:13:47	eyeoh	But capturing bishop which is what I think I might have done myself - I'm not sure what black could have replied with with your two knights queen and bishop all around there
+2018-10-15 01:14:00	eyeoh	Probably a pawn push for black
+2018-10-15 01:14:56	eyeoh	I usually prefer playing black though so I'm happy to defend first
+2018-10-15 01:15:58	eyeoh	After all, I've liked the modern opening for a long time now (since early 2000s) and only just recently found one for white I like
+2018-10-15 01:23:35	-->	aindilis (~aindilis@172-12-3-117.lightspeed.sgnwmi.sbcglobal.net) has joined ##chess
+2018-10-15 01:27:11	--	irc: disconnected from server
+2018-10-15 01:33:07	-->	Momentum (Momentum@gateway/shell/panicbnc/x-akqgvhrghpkgpkbd) has joined ##chess
+2018-10-15 01:33:07	--	Topic for ##chess is "chess discussions, from lines to games, to organizing matches | please identify with Services - if you can not ask an op for a voice"
+2018-10-15 01:33:07	--	Topic set by qed (~Shimon@unaffiliated/terencetao) on Fri, 24 Aug 2018 16:46:36
+2018-10-15 01:33:07	--	Channel ##chess: 111 nicks (1 op, 9 voices, 101 normals)
+2018-10-15 01:33:37	--	Channel created on Tue, 27 Jan 2009 06:30:13
+2018-10-15 01:39:11	furrykef	I prefer white and for a long time I really had no idea how to play black 'cause I usually played as white against the computer
+2018-10-15 01:53:51	eyeoh	Hah
+2018-10-15 01:54:23	eyeoh	I think I'm close minded so don't mind the cosiness of waiting to see what white does before responding
+2018-10-15 01:54:52	eyeoh	Sometimes white for me feels like a dog chasing a car and finally catching it
+2018-10-15 01:55:01	eyeoh	I'm improving though
+2018-10-15 01:55:46	eyeoh	Computer has thrashed me playing 1. e4 too many times that I'm reluctant to play it now
+2018-10-15 01:56:30	eyeoh	1. e4 is also the reason I went searching for a flank response from black
+2018-10-15 01:56:30	furrykef	That's how you improve, though... you get hammered and you figure out why and after it happens enough times you learn not to do it
+2018-10-15 01:56:58	eyeoh	Cause I never studied how Sicilian works
+2018-10-15 01:57:20	eyeoh	I'll get back to it eventually though
+2018-10-15 01:57:37	furrykef	The Sicilian is tricky for black, and not so tricky for white when black is unskilled at it. At least that's my understanding.
+2018-10-15 01:57:50	eyeoh	I think a standard opening + two less common ones is nice to play on each side
+2018-10-15 01:58:27	eyeoh	My understanding so far of Sicilian is knights and bishops in the right place heh
+2018-10-15 01:59:35	eyeoh	I do need to work on end game more because I think lichess stats say I manage to punish opponent blunders most of the time in the opening but not middle and end game
+2018-10-15 02:00:27	eyeoh	And while I've blundered a few times in the opening, being able to recapture in the middle game can often save it
+2018-10-15 02:00:34	+baraba	Bendah, my friend, where did the stats go?
+2018-10-15 02:03:50	eyeoh	!rating eyeoh puzzle
+2018-10-15 02:03:51	+botfisch`	eyeoh: lollycopter: puzzle: 1609 (N=1099, Δ=37, σ=62)
+2018-10-15 02:04:20	eyeoh	Still finding 1600 a bit of resistance - I think I need to slow down
+2018-10-15 02:10:24	furrykef	https://lichess.org/cPWRdAZ5/black  crazy game. Too bad it didn't work out for me.
+2018-10-15 02:12:28	furrykef	I'm proud of finding 8.b5, and in a blitz game at that.
+2018-10-15 02:12:41	furrykef	8...b5, rather
+2018-10-15 02:14:33	furrykef	Eh, I guess it wasn't that hard a move to find
+2018-10-15 02:15:08	furrykef	It's not a natural move for me, though; at first I thought Nc6
+2018-10-15 02:15:39	eyeoh	Nice rook grab
+2018-10-15 02:16:11	eyeoh	Bah android app isn't good at replay
+2018-10-15 02:16:53	furrykef	Yeah, I had two nice rook grabs in that game
+2018-10-15 02:18:32	furrykef	I almost missed the second one, too. At first I was disinclined to play 16...Bh4+ because it looked like 17.g3 would just push my bishop back. But then I noticed white's rook would be hanging.
+2018-10-15 02:18:44	furrykef	And if he didn't push the pawn his king would be in big trouble
+2018-10-15 02:19:18	eyeoh	Unfortunately grabbing the rooks turned out detrimental overall haha
+2018-10-15 02:19:31	furrykef	Nah. It wasn't the rook grabs that hurt me
+2018-10-15 02:20:02	furrykef	They did make life a little trickier and I didn't know how to handle it... but if I did I would have been fine
+2018-10-15 02:20:27	furrykef	I had a crushing advantage right up until I moved the king to the wrong square and lost
+2018-10-15 02:23:21	eyeoh	Ah yes you forgot about your bishop and rooks
+2018-10-15 02:24:02	furrykef	what do you mean?
+2018-10-15 02:25:28	eyeoh	I meant a rook and h bishop guarding the 8th rank
+2018-10-15 02:25:50	-->	dusty (49ef342c@gateway/web/freenode/ip.73.239.52.44) has joined ##chess
+2018-10-15 02:26:32	<--	dusty (49ef342c@gateway/web/freenode/ip.73.239.52.44) has quit (Client Quit)
+2018-10-15 02:27:06	-->	dusty (49ef342c@gateway/web/freenode/ip.73.239.52.44) has joined ##chess
+2018-10-15 02:27:34	<--	dusty (49ef342c@gateway/web/freenode/ip.73.239.52.44) has left ##chess
+2018-10-15 02:39:28	eyeoh	http://www.abc.net.au/news/2018-10-14/high-demand-for-emu-eggs/10369468
+2018-10-15 02:40:49	<--	tdy (~tdy@unaffiliated/tdy) has quit (Quit: WeeChat 2.2)
+2018-10-15 05:43:55	--	irc: disconnected from server
+2018-10-15 12:45:48	-->	Momentum (Momentum@gateway/shell/panicbnc/x-akqgvhrghpkgpkbd) has joined ##chess
+2018-10-15 12:45:48	--	Topic for ##chess is "chess discussions, from lines to games, to organizing matches | please identify with Services - if you can not ask an op for a voice"
+2018-10-15 12:45:48	--	Topic set by qed (~Shimon@unaffiliated/terencetao) on Fri, 24 Aug 2018 16:46:36
+2018-10-15 12:45:49	--	Channel ##chess: 110 nicks (1 op, 9 voices, 100 normals)
+2018-10-15 12:45:49	***	Buffer Playback...
+2018-10-15 12:45:49	furrykef	[04:21:22] https://lichess.org/tXXmweR0WbfD  Hah. I blundered my knight but I got him to blunder his queen.
+2018-10-15 12:45:49	furrykef	[04:22:23] I think he shoulda kept going, though. At least he woulda had two pieces for it.
+2018-10-15 12:45:49	furrykef	[04:24:15] In a blitz game at my level that's not a huge disadvantage, I think. Significant, but not huge.
+2018-10-15 12:45:49	furrykef	[04:24:41] Though losing your queen suddenly is always demoralizing
+2018-10-15 12:45:49	furrykef	[04:32:49] I should stop playing so much blitz and start playing more classical again.
+2018-10-15 12:45:49	furrykef	[04:33:17] I should start drilling Standard puzzles again, too
+2018-10-15 12:45:49	eyeoh	[04:45:48] wow they thought a long time on that move
+2018-10-15 12:45:49	eyeoh	[04:47:30] I gave stockfish lvl1 a go at 5+0
+2018-10-15 12:45:49	eyeoh	[04:48:09] I went fine, but I think I'll try and stay away from less than 10+0 for now
+2018-10-15 12:45:49	notzmv	[05:07:02] doch
+2018-10-15 12:45:49	notzmv	[05:07:05] very good
+2018-10-15 12:45:49	notzmv	[05:07:19] low time controls are convenient but not great for your chess ouo
+2018-10-15 12:45:49	furrykef	[05:11:09] They have merit, you just shouldn't do it to the exclusion of all else (unless blitz is all you ever want to play, I guess)
+2018-10-15 12:45:49	furrykef	[05:11:36] Can't really train calculation skill that way since there's very little time to calculate
+2018-10-15 12:45:49	notzmv	[05:21:15] personally, I'm bad at calculation, so blitz doesn't help me
+2018-10-15 12:45:49	notzmv	[05:21:38] I have great intuition, but I'm bad at calculating and tactics
+2018-10-15 12:45:49	notzmv	[05:21:53] thank god intuition goes quite a long way lol
+2018-10-15 12:45:49	furrykef	[05:38:00] I think board vision is a bigger issue for me than calculation per se.
+2018-10-15 12:45:49	furrykef	[05:40:38] Trying to calculate with poor board vision is building a house on a shaky foundation.
+2018-10-15 12:45:49	notzmv	[05:42:35] true
+2018-10-15 12:45:49	flapz	[06:17:26] what's "board vision" 
+2018-10-15 12:45:49	eyeoh	[06:18:18] I think being able to see the board and not having blind spots like I did yesterday
+2018-10-15 12:45:49	eyeoh	[06:18:31] I totally didn't register that a knight was right there in the middle yesterday
+2018-10-15 12:45:49	eyeoh	[06:18:34] two times in one game
+2018-10-15 12:45:49	furrykef	[06:18:48] Yeah, sometimes it's not noticing a piece
+2018-10-15 12:45:49	eyeoh	[06:18:50] walked my queen into it to be hung, then I got forked and lost a rook
+2018-10-15 12:45:49	furrykef	[06:19:00] Sometimes it's not noticing a move you can make with the piece. The thought just doesn't enter into your head
+2018-10-15 12:45:49	furrykef	[06:19:09] Like you look for the ways you can check the enemy king, but you miss one.
+2018-10-15 12:45:49	eyeoh	[06:19:24] or as John Bartholomew puts it - undefended pieces
+2018-10-15 12:45:49	flapz	[06:19:28] oh, I would call this "piece awareness" it's more descriptive than "board vision"
+2018-10-15 12:45:49	eyeoh	[06:19:50] yeah I'd probably call it being aware of undefended pieces (on both sides)
+2018-10-15 12:45:49	flapz	[06:20:55] it's certainly important, and a basic skill to learn 
+2018-10-15 12:45:49	flapz	[06:22:05] so much tactics revolve around undefended pieces
+2018-10-15 12:45:49	flapz	[06:23:36] maybe you can do an exercize before every puzzle you solve, learn to immediately "spot basic things"
+2018-10-15 12:45:49	flapz	[06:24:29] 99% of chess is tactics 
+2018-10-15 12:45:49	furrykef	[06:26:45] I alredy intend to have some exercise of that sort built into Virtual Chess Coach
+2018-10-15 12:45:49	furrykef	[06:26:48] *already
+2018-10-15 12:45:49	+drakan	[06:30:43] what's the threat from my opponent, what's the best threat i can make, does it let me ignore my opponent's threat...
+2018-10-15 12:45:49	eyeoh	[06:36:29] I feel just lichess puzzles are good preparation but it's always a question of how long I can maintain that peak for
+2018-10-15 12:45:49	eyeoh	[06:36:38] i.e., stamina
+2018-10-15 12:45:49	furrykef	[06:54:19] I have days where it's easy to do 100 or more blitz puzzles and days where I'm happy to do just the one puzzle to keep my streak going
+2018-10-15 12:45:49	furrykef	[06:54:31] (I've got a 530-day streak, don't wanna ruin it)
+2018-10-15 12:45:49	+drakan	[06:56:10] wow just had a game w/ 7 avg centipawn loss
+2018-10-15 12:45:49	eyeoh	[06:56:51] accidentally started a game without logging in; then accidentally got a stalemate https://lichess.org/sLl1VYuKARtW
+2018-10-15 12:45:49	eyeoh	[06:56:57] call me the draw king :p
+2018-10-15 12:45:49	eyeoh	[06:57:20] furrykef: how long do you spend on each puzzle, typically?
+2018-10-15 12:45:49	+drakan	[06:57:42] how are you ever not logged in ^_^
+2018-10-15 12:45:49	furrykef	[06:58:27] Well, these days I mostly drill puzzles in an SRS, which means I've probably seen the puzzle several or possibly many times
+2018-10-15 12:45:49	furrykef	[06:58:48] So the bulk of them take only a few seconds since it's just a matter of remembering the solution
+2018-10-15 12:45:49	furrykef	[06:59:05] The hope is this will build pattern recognition
+2018-10-15 12:45:49	+drakan	[06:59:52] SRS?
+2018-10-15 12:45:49	furrykef	[07:00:10] Spaced repetition system. It's similar to modern flash card systems
+2018-10-15 12:45:49	furrykef	[07:01:29] Basically it keeps track of your performance at each puzzle. A puzzle that you missed recently will be shown again soon; a puzzle that you got right despite not having seen it in a long time won't be shown to you again for a very long time
+2018-10-15 12:45:49	furrykef	[07:02:02] This way you focus more on the more difficult material
+2018-10-15 12:45:49	eyeoh	[07:02:33] drakan: hah fair cop; but I was just testing the two factor auth (doesn't work on mobile) so got logged out
+2018-10-15 12:45:49	eyeoh	[07:02:46] assumed my lichess browser was already logged in so I clicked quick pair
+2018-10-15 12:45:49	eyeoh	[07:05:09] wow I had 3.5 seconds left; didn't even realise
+2018-10-15 12:45:49	eyeoh	[07:05:13] not looking at the clock = best way
+2018-10-15 12:45:49	+drakan	[07:06:34] sometimes no clock works great and sometimes i'm like wtf do i only have 10 seconds left
+2018-10-15 12:45:49	eyeoh	[07:06:36] I need to stop snatching a pawn back after reti/queen's gambit accepted
+2018-10-15 12:45:49	furrykef	[07:08:33] Man, I haven't played the Queen's Gambit in ages. I like it, it's just other openings have had my attention
+2018-10-15 12:45:49	furrykef	[07:08:39] When I play 1.d4 I intend to play the London
+2018-10-15 12:45:49	notzmv	[07:10:19] bleh
+2018-10-15 12:45:49	furrykef	[07:11:01] Not a London fan, huh?
+2018-10-15 12:45:49	izabera	[07:13:21] i'm a newb and i just did c8=Q# for the first time i think
+2018-10-15 12:45:49	furrykef	[07:13:41] No shame in being a newb.
+2018-10-15 12:45:49	izabera	[07:14:58] next goal is O-O-O#
+2018-10-15 12:45:49	izabera	[07:15:11] then O-O#
+2018-10-15 12:45:49	notzmv	[07:17:12] no
+2018-10-15 12:45:49	notzmv	[07:17:32] I find the london extremely unexciting
+2018-10-15 12:45:49	furrykef	[07:17:54] I don't think I've ever mated by castling, except in puzzles.
+2018-10-15 12:45:49	furrykef	[07:22:43] I'm not really one for flair when it comes to chess... I play to win. I don't care how I get there.
+2018-10-15 12:45:49	furrykef	[07:29:07] I like to say if you're bored while playing chess you're not thinking hard enough.
+2018-10-15 12:45:50	furrykef	[07:29:20] (or perhaps your position is hopeless and you should resign)
+2018-10-15 12:45:50	izabera	[07:29:21] that's the spirit
+2018-10-15 12:45:50	izabera	[07:29:24] play to win
+2018-10-15 12:45:50	izabera	[07:29:28] by any means necessary
+2018-10-15 12:45:50	izabera	[07:29:34] bribe your opponent
+2018-10-15 12:45:50	izabera	[07:29:40] kidnap them and torture them
+2018-10-15 12:45:50	furrykef	[07:29:41] pfft
+2018-10-15 12:45:50	izabera	[07:30:02] blackmail them with nudes
+2018-10-15 12:45:50	furrykef	[07:30:04] Well, don't get me wrong. I'm actually not a very competitive person at all these days
+2018-10-15 12:45:50	furrykef	[07:30:33] It would be more accurate to say I aim to achieve my potential
+2018-10-15 12:45:50	furrykef	[07:31:09] I understand that when I play chess my enemy is not my opponent, but myself
+2018-10-15 12:45:50	furrykef	[07:31:27] I'm not playing grandmasters here. If I lose, it's my own fault, because I obviously blundered.
+2018-10-15 12:45:50	izabera	[07:31:29] then blackmail yourself
+2018-10-15 12:45:50	furrykef	[07:31:49] :P
+2018-10-15 12:45:50	eyeoh	[07:42:34] still suffering from knight blindness
+2018-10-15 12:45:50	eyeoh	[07:42:40] walked my queen into knight again
+2018-10-15 12:45:50	eyeoh	[07:44:16] yeah https://lichess.org/nRiXpXkY/black#59 needs no analysis
+2018-10-15 12:45:50	eyeoh	[07:44:32] alright; time to try one more game where I don't walk my queen into the knight
+2018-10-15 12:45:50	furrykef	[07:47:28] Bishops and knights are always tricky.
+2018-10-15 12:45:50	furrykef	[07:47:49] Pawns can be sneaky bastards, too.
+2018-10-15 12:45:50	furrykef	[07:48:05] Especially since it's easy not to pay attention to them.
+2018-10-15 12:45:50	eyeoh	[07:49:04] pawns really powerful with discovered attacks
+2018-10-15 12:45:50	eyeoh	[07:49:15] or pins
+2018-10-15 12:45:50	furrykef	[07:49:30] Don't forget pawn forks.
+2018-10-15 12:45:50	eyeoh	[07:49:45] 1 inaccuracy, 1 mistake, 0 blunders https://lichess.org/jl0ZzJI3/white#0 yay
+2018-10-15 12:45:50	furrykef	[07:50:07] Having two pieces one square apart is a red flag for me, though unfortunately it still doesn't trigger 100% of the time.
+2018-10-15 12:45:50	furrykef	[07:50:36] One file apart, I should say
+2018-10-15 12:45:50	eyeoh	[07:50:53] pretty satisfied with that game; didn't feel like I was ahead but low inaccuracies & mistakes with no blunders is pretty good for me
+2018-10-15 12:45:50	furrykef	[07:51:09] Yeah, always a good thing
+2018-10-15 12:45:50	eyeoh	[07:51:18] I *nearly* didn't punish black's blunder
+2018-10-15 12:45:50	eyeoh	[07:51:29] but saw it just in time and went to grab the correct piece
+2018-10-15 12:45:50	eyeoh	[07:51:53] didn't see rook or check until the last moment
+2018-10-15 12:45:50	eyeoh	[07:51:58] not sure what else I would have played
+2018-10-15 12:45:50	eyeoh	[07:52:06] oh yeah I was thinking of moving a rook
+2018-10-15 12:45:50	eyeoh	[07:52:25] was thinking "more development" but then saw oh hey empty square and check/rook
+2018-10-15 12:45:50	eyeoh	[07:53:00] since rooks are low effort until end game, I should stick into my routine "thinking of moving rook? what about theirs first?"
+2018-10-15 12:45:50	eyeoh	[07:53:09] touch rook: look first
+2018-10-15 12:45:50	eyeoh	[07:54:33] break time; I don't think I'll improve on that this hour
+2018-10-15 12:45:50	eyeoh	[07:57:56] furrykef: you haven't touched a 15+15 for 2 months
+2018-10-15 12:45:50	eyeoh	[07:58:16] so is it just blitz, bullet and maths now?
+2018-10-15 12:45:50	flapz	[08:05:17] btw I blunder, it is the only thing that keeps me from being 2000 blitz
+2018-10-15 12:45:50	beeman	[08:06:01] I was hoping to win this https://lichess.org/0dqCAGgH
+2018-10-15 12:45:50	flapz	[08:11:46] this is how 70% of my games look like http://i.share.pho.to/89db7220_o.png
+2018-10-15 12:45:50	eyeoh	[08:12:00] head a bit heavy now
+2018-10-15 12:45:50	eyeoh	[08:12:20] haha flapz
+2018-10-15 12:45:50	eyeoh	[08:12:27] as black? :p
+2018-10-15 12:45:50	flapz	[08:12:37] no, white of course :)
+2018-10-15 12:45:50	eyeoh	[08:12:48] oh yeah I read that backwards
+2018-10-15 12:45:50	eyeoh	[08:12:59] my charts look like the tsla or btc price chart
+2018-10-15 12:45:50	eyeoh	[09:07:32] I've just slowed piece animation to 'slow'; might be more natural now
+2018-10-15 12:45:50	eyeoh	[10:36:14] ok definitely expired now
+2018-10-15 12:45:50	eyeoh	[10:36:17] !rating eyeoh rapid
+2018-10-15 12:45:50	+botfisch`	[10:36:18] eyeoh: lollycopter: rapid: 1357 (N=86, Δ=-29, σ=61)
+2018-10-15 12:45:50	eyeoh	[10:36:22] -29
+2018-10-15 12:45:50	CuriousErnestBro	[10:36:47] 1. E4 
+2018-10-15 12:45:50	mursu	[10:38:36] 1 .., d5
+2018-10-15 12:45:50	eyeoh	[10:39:29] 2. exd5 :p
+2018-10-15 12:45:51	mursu	[10:40:00] 2.. Qxd5
+2018-10-15 12:45:51	eyeoh	[10:41:39] 3. Nc3
+2018-10-15 12:45:51	mursu	[10:42:06] 3.. Qa3
+2018-10-15 12:45:51	mursu	[10:42:10] erm
+2018-10-15 12:45:51	mursu	[10:42:12] no
+2018-10-15 12:45:51	mursu	[10:42:15] qA5
+2018-10-15 12:45:51	mursu	[10:42:17] lel
+2018-10-15 12:45:51	eyeoh	[10:42:21] lel
+2018-10-15 12:45:51	eyeoh	[10:42:26] this old chestnut
+2018-10-15 12:45:51	mursu	[10:42:43] don't disqualify me for illegal moves :(
+2018-10-15 12:45:51	eyeoh	[10:43:04] 4. Nc5
+2018-10-15 12:45:51	Jik	[10:43:05] 3..Qa3 is an interesting move in many ways
+2018-10-15 12:45:51	eyeoh	[10:43:30] I'm ruining this
+2018-10-15 12:45:51	eyeoh	[10:43:36] but eh, deal with it
+2018-10-15 12:45:51	eyeoh	[10:43:42] someone else take over ;D
+2018-10-15 12:45:51	mursu	[10:43:58] Nc5??
+2018-10-15 12:45:51	Jik	[10:43:59] So black played Qd5-a3 and then white responded Nc3-c5
+2018-10-15 12:45:51	mursu	[10:44:13] drunk chess
+2018-10-15 12:45:51	Jik	[10:44:27] I don't know much opening theory
+2018-10-15 12:45:51	eyeoh	[10:44:38] oh Nc5 is illegal
+2018-10-15 12:45:51	Jik	[10:44:39] but I have a feeeeling this isn't what you're supposed to play in scandinavian
+2018-10-15 12:45:51	eyeoh	[10:44:43] well we can't move that then
+2018-10-15 12:45:51	eyeoh	[10:44:48] 4. is open
+2018-10-15 12:45:51	eyeoh	[10:45:06] any bidders
+2018-10-15 12:45:51	mursu	[10:45:29] resigning is the best move
+2018-10-15 12:45:51	eyeoh	[10:46:01] yolo
+2018-10-15 12:45:51	eyeoh	[10:46:04] 4. a3
+2018-10-15 12:45:51	eyeoh	[10:46:13] aye three!
+2018-10-15 12:45:51	mursu	[10:47:02] I how you aren't trying to play 5.b4
+2018-10-15 12:45:51	eyeoh	[10:47:24] where's b4
+2018-10-15 12:45:51	eyeoh	[10:47:33] and 5 what
+2018-10-15 12:45:51	mursu	[10:47:49] 4.., b6
+2018-10-15 12:45:51	mursu	[10:47:52] woot
+2018-10-15 12:45:51	mursu	[10:47:54] wait
+2018-10-15 12:45:51	mursu	[10:47:58] that's the wrong move
+2018-10-15 12:45:51	mursu	[10:48:00] w/e
+2018-10-15 12:45:51	eyeoh	[10:48:08] too bad
+2018-10-15 12:45:51	eyeoh	[10:48:11] it's legal so it's done
+2018-10-15 12:45:51	Jik	[10:48:18] Ooooooooooooooooooo
+2018-10-15 12:45:51	Jik	[10:48:21] nice
+2018-10-15 12:45:51	Jik	[10:48:38] b6 is probably the worst move you can play in that position
+2018-10-15 12:45:51	Jik	[10:48:42] or is it?
+2018-10-15 12:45:51	mursu	[10:48:42] :DD
+2018-10-15 12:45:51	mursu	[10:48:45] probably
+2018-10-15 12:45:51	Jik	[10:48:46] i don't know 
+2018-10-15 12:45:51	eyeoh	[10:48:46] 5. Nf3
+2018-10-15 12:45:51	Jik	[10:48:52] NOOOOOO WHYYY
+2018-10-15 12:45:51	eyeoh	[10:48:55] nobody promised they were good :p
+2018-10-15 12:45:51	eyeoh	[10:49:02] wow we up to move 5 already
+2018-10-15 12:45:51	eyeoh	[10:49:07] this'll be over in no time
+2018-10-15 12:45:51	Jik	[10:49:22] commenting on blindfold live is an interesting hobby
+2018-10-15 12:45:51	Jik	[10:49:30] Story time!
+2018-10-15 12:45:51	Jik	[10:49:38] A group of chess players were in a bar.
+2018-10-15 12:45:51	mursu	[10:49:46] Bg4
+2018-10-15 12:45:51	eyeoh	[10:49:53] I'm cheating
+2018-10-15 12:45:51	Jik	[10:49:55] Someone was pretty much passed out, sitting in a chair eyes closed.
+2018-10-15 12:45:52	eyeoh	[10:49:59] using the analysis board without stockfish
+2018-10-15 12:45:52	Jik	[10:50:18] The waiter came and was about to throw him/them out.
+2018-10-15 12:45:52	mursu	[10:50:23] eyeoh: lol same
+2018-10-15 12:45:52	mursu	[10:50:27] but don't tell anyone
+2018-10-15 12:45:52	eyeoh	[10:50:34] I have no chance of blindfold chess
+2018-10-15 12:45:52	eyeoh	[10:50:41] this story looks interesting Jik
+2018-10-15 12:45:52	eyeoh	[10:50:42] continue
+2018-10-15 12:45:52	Jik	[10:50:52] But the friends realised. "Hush! Be quiet, they're playing blindfold chess, don't disturb them!"
+2018-10-15 12:45:52	eyeoh	[10:51:00] haha
+2018-10-15 12:45:52	Jik	[10:51:04] Waiter nodded and left them alone.
+2018-10-15 12:45:52	eyeoh	[10:51:18] the end?
+2018-10-15 12:45:52	Jik	[10:51:23] The end.
+2018-10-15 12:45:52	mursu	[10:51:37] this is some 4d chess
+2018-10-15 12:45:52	eyeoh	[10:51:42] lol
+2018-10-15 12:45:52	Jik	[10:51:42] I heard this story 2nd/3rd hand with names but I don't remember the names.
+2018-10-15 12:45:52	Jik	[10:51:47] But I think it might be true.
+2018-10-15 12:45:52	eyeoh	[10:51:50] 4-D chess*
+2018-10-15 12:45:52	Jik	[10:51:50] Somewhere in Finland.
+2018-10-15 12:45:52	mursu	[10:52:19] you know the story is false because no waiter would throw out a paying customer
+2018-10-15 12:45:52	Jik	[10:52:31] a passed out customer is no longer a paying customer
+2018-10-15 12:45:52	eyeoh	[10:52:35] bars don't have waiters
+2018-10-15 12:45:52	Jik	[10:52:39] what's it then
+2018-10-15 12:45:52	Jik	[10:52:45] the dude who walks around and brings beer
+2018-10-15 12:45:52	Jik	[10:52:48] or maybe it's not a bar
+2018-10-15 12:45:52	Jik	[10:52:51] a pub?
+2018-10-15 12:45:52	mursu	[10:53:01] passed out customers are potential customers
+2018-10-15 12:45:52	eyeoh	[11:05:06] hmm sore back / getting old / not cycling enough
+2018-10-15 12:45:52	+JimmyRustles	[11:41:37] lol
+2018-10-15 12:45:52	+JimmyRustles	[11:41:47] i just realised i put the white king and queen on the wrong squares on my ebay picture of my chess board
+2018-10-15 12:45:52	+JimmyRustles	[11:41:49] epic fail
+2018-10-15 12:45:52	ua_	[11:44:44] or maybe someone will assume that its in better contition because person selling doesnt seem to know the rules therefore didnt use it much xD
+2018-10-15 12:45:52	+JimmyRustles	[11:45:19] lol
+2018-10-15 12:45:52	ua_	[11:45:33] condition*
+2018-10-15 12:45:52	mursu	[11:50:22] top tier ebay strategy
+2018-10-15 12:45:52	***	Playback Complete.
+2018-10-15 12:46:19	--	Channel created on Tue, 27 Jan 2009 06:30:13
